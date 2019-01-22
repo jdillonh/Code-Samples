@@ -10,3 +10,7 @@ Also see my [Maniplative DNS Proxy](https://github.com/jdillonh/Manipulative-DNS
 
 ### Personal Projects, Lua + Games
 Take a look at [*Bloink*](https://github.com/jdillonh/bloink-game) a game I made with the Love2D framework.
+
+I also like to make sketches in Processing3, see some 
+[here](https://github.com/jdillonh/shadows), and 
+[here](https://github.com/jdillonh/squares).
