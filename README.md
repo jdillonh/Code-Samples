@@ -8,7 +8,7 @@ Check out my [Multi-Connection Web Server](https://github.com/jdillonh/Multi-Con
 
 Also see my [Maniplative DNS Proxy](https://github.com/jdillonh/Manipulative-DNS-Proxy) that handles UDP and TCP DNS connections, that fields DNS requests by forwarding them upstream to an exisisting resolver and redirects 404's to a given website.
 
-See my Python [Trie](https://github.com/jdillonh/python-trie) for a datastructure example.
+See my Python [Trie](https://github.com/jdillonh/python-trie) ("lookup tree") for a datastructure example.
 
 ### Personal Projects 
 #### Lua + Games
