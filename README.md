@@ -8,6 +8,8 @@ Check out my [Multi-Connection Web Server](https://github.com/jdillonh/Multi-Con
 
 Also see my [Maniplative DNS Proxy](https://github.com/jdillonh/Manipulative-DNS-Proxy) that handles UDP and TCP DNS connections, that fields DNS requests by forwarding them upstream to an exisisting resolver and redirects 404's to a given website.
 
+See my Python [Trie](https://github.com/jdillonh/python-trie) for a datastructure example.
+
 ### Personal Projects 
 #### Lua + Games
 Take a look at [*Bloink*](https://github.com/jdillonh/bloink-game) a game I made with the Love2D framework.
