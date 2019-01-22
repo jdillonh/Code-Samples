@@ -23,5 +23,5 @@ I also like to make sketches in Processing 3, see some
 ### Not what you're looking for?
 If there is something you would like to see I am happy to share other code that I have written or write something new and share it with you directly. (Much of the code I write for school can't be posted here for reasons of academic integrity)
 
-I am currently doing work in JavaScript + WebGL, and have worked in C++ and C# in the past.
+I am currently doing work in Python, and JavaScript + WebGL, and have worked in C++ and C# in the past.
 
