@@ -10,6 +10,9 @@ Also see my [Maniplative DNS Proxy](https://github.com/jdillonh/Manipulative-DNS
 
 See my Python [Trie](https://github.com/jdillonh/python-trie) ("lookup tree") for a datastructure example.
 
+### LineLibrary
+This is a project I did for a startup called LineLibrary. The company plans to change the way sports betting is done by creating an open exchange where users can buy and sell bets buring a game. My [simulator](https://github.com/jdillonh/LineLibrarySim) is an example of what the UI and UX might look like, built on Love2D with my own UI elements library.
+
 ### Personal Projects 
 #### Lua + Games
 Take a look at [*Bloink*](https://github.com/jdillonh/bloink-game) a game I made with the Love2D framework.
