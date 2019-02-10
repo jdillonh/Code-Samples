@@ -3,7 +3,7 @@
 
 Hi welcome to my github, here you can find my code samples.
 
-### webGL
+### webGL & JS
 See [this example](http://users.eecs.northwestern.edu/~jdh7077/webgl/webgl_example.html) of some webGL on my website. 
 
 
