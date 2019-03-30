@@ -5,7 +5,7 @@ Hi welcome to my github, here you can find my code samples.
 
 ### webGL & JS
 See [this example](http://users.eecs.northwestern.edu/~jdh7077/webgl/webgl_example.html) of some webGL on my website. 
-
+[This](https://eecs330-improving-notetaking.github.io/notetaker/index.html) is a notetaking web app I made with a group of other students in a class about Human Computer Interaction and web design.
 
 ### Python 
 #### Computer Networking
